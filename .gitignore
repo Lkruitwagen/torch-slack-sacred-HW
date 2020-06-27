@@ -7,3 +7,5 @@ tmp/*
 !data/.gitkeep
 !experiments/.gitkeep
 !tmp/.gitkeep
+
+*ipynb*
