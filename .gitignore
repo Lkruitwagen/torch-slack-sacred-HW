@@ -1,0 +1,9 @@
+credentials/*
+data/*
+experiments/*
+tmp/*
+
+!credentials/.gitkeep
+!data/.gitkeep
+!experiments/.gitkeep
+!tmp/.gitkeep
